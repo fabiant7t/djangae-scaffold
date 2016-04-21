@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ "$#" -ne 1 ]; then
     echo "Please supply a single argument of the new app name"
     exit 1
